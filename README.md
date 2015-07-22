@@ -6,5 +6,6 @@ If you have a crash report or logs (found in Modpack options in launcher > Open 
 If there is a bug/issue you are noticing please be as specific as possible in describing it, the more specific, the more helpful you will be! Mod suggestions will be ignored and likely closed as this pack is based off the YouTube series and is following that with no exceptions aside from client tweaks. 
 
 > Crash reports without Pastebin suck, and they should burn in a fire
-A very smart man
+
+-A very smart man
 
