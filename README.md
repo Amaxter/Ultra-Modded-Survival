@@ -1,5 +1,7 @@
 # Ultra-Modded-Survival
-An issue tracker for the Ultra Modded-Survival modpack created by Amaxter and distributed via the Technic Platform.
+## Official Issue Tracker
+
+An issue tracker for the [Ultra Modded-Survival](http://www.technicpack.net/modpack/ultra-modded-survival-101.698929) modpack created by Amaxter and distributed via the Technic Platform.
 
 If you have a crash report or logs (found in Modpack options in launcher > Open Pack Directory and then crash reports folder or logs folder) then please submit them via a service like pastebin.com so that they don't take up so much space. Any crashes/logs submitted in plain text will be ignored.
 
