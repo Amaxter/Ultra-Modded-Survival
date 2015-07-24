@@ -15,7 +15,7 @@ If there is a bug/issue you are noticing please be as specific as possible in de
 
 > "If you're suggesting a mod here, you're doing it wrong"
 
-- Me
+-Me
 
 ###Proper Conduct
 - You will not be stupid
