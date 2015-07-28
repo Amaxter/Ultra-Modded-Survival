@@ -3,3 +3,5 @@
 !config/
 !structures/
 .DS_Store
+
+config/musicchoices.cfg
