@@ -24,6 +24,3 @@ If there is a bug/issue you are noticing please be as specific as possible in de
 - You will not threaten the pack developers/other people
 - You will not submit a crash report that says "Out of Memory" (If you do, well, let's **not** talk about that)
 - Lastly, you will use common sense, which should basically include all the stuff said above plus a bunch of other stuff that's a given.
-
-Caleb was here.
-You know you love me.
