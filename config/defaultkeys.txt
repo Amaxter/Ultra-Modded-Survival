@@ -36,8 +36,8 @@ key_Boost Key:29
 key_Mode Switch Key:36
 key_Side Inventory Key:46
 key_Hub Expand Key:45
-key_PcktCrft Open (FZ):46
 key_Sprint (FZ):0
+key_PcktCrft Open (FZ):46
 key_key.skills:54
 key_key.cinfo:49
 key_key.skillnameleft:203
@@ -56,11 +56,11 @@ key_key.toggle:34
 key_Down key:29
 key_Inventory key:19
 key_Bomb Key:47
-key_Gun Key:48
+key_Gun Key:27
 key_Control Switch key:46
 key_Reload key:19
 key_Teams Menu Key:34
-key_Teams Scores Key:23
+key_Teams Scores Key:35
 key_Roll Left Key:44
 key_Roll Right Key:45
 key_Gear Up / Down Key:38
@@ -73,7 +73,7 @@ key_OreSpawn UP/FAST:56
 key_ScreenShot Manager:21
 key_VoxelMods Config:0
 key_key.portaitreposition:52
-key_Baubles Inventory:48
+key_Baubles Inventory:23
 key_billund.key.rotate:19
 key_key.dragon.flyUp:19
 key_key.dragon.flyDown:33
@@ -91,9 +91,9 @@ key_waila.keybind.recipe:81
 key_waila.keybind.usage:75
 key_key.tarmor:24
 key_key.tgoggles:34
-key_key.tbelt:48
+key_key.tbelt:26
 key_key.tzoom:44
-key_[GC] Galaxy Map:184
+key_[GC] Galaxy Map:49
 key_[GC] Open Spaceship Inventory:33
 key_[GC] Toggle Sensor Goggles Mode:37
 key_invtweaks.key.sort:19
@@ -107,11 +107,11 @@ key_Cycle Tool Backward (MPS):-1
 key_Cycle Tool Forward (MPS):-1
 key_Zoom (MPS):21
 key_Cosmetic (MPS):-1
-key_key.craftingGrid:43
+key_key.craftingGrid:46
 key_key.CastingMode:46
 key_key.SpellBookNext:45
 key_key.SpellBookPrev:44
-key_key.AuraCustomization:48
+key_key.AuraCustomization:39
 key_key.ToggleManaDisplay:24
 key_key.cofh.empower:47
 key_key.cofh.multimode:46
