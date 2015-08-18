@@ -17,10 +17,15 @@ If there is a bug/issue you are noticing please be as specific as possible in de
 
 -Me
 
+###What This Isn't
+- A place to get help with a personal issue with the modpack (just on your end)
+- A place to get help if you've modified any of the modpack's files
+
 ###Proper Conduct
 - You will not be stupid
 - You will not submit an issue while angry/drunk/under the influence (or *all three*)
 - You will not insult the pack or post irrelevant content
 - You will not threaten the pack developers/other people
 - You will not submit a crash report that says "Out of Memory" (If you do, well, let's **not** talk about that)
+- You will use English (sorry I'm not Google Translate) and speak clear enough to be understood
 - Lastly, you will use common sense, which should basically include all the stuff said above plus a bunch of other stuff that's a given.
